@@ -1,0 +1,10 @@
+E:\yolov7-main\datasets\binghai\images\val\168_block_4_7.png
+E:\yolov7-main\datasets\binghai\images\val\169_block_4_7.png
+E:\yolov7-main\datasets\binghai\images\val\180_block_4_9.png
+E:\yolov7-main\datasets\binghai\images\val\181_block_4_9.png
+E:\yolov7-main\datasets\binghai\images\val\182_block_4_9.png
+E:\yolov7-main\datasets\binghai\images\val\183_block_4_9.png
+E:\yolov7-main\datasets\binghai\images\val\184_block_4_9.png
+E:\yolov7-main\datasets\binghai\images\val\185_block_4_9.png
+E:\yolov7-main\datasets\binghai\images\val\186_block_4_9.png
+E:\yolov7-main\datasets\binghai\images\val\187_block_4_9.png

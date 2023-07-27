@@ -1,0 +1,1 @@
+python train.py --weights weights/yolov7_training.pt --cfg cfg/training/yolov7-wildlife.yaml --data data/wildlife.yaml --device 0 --batch-size 4 --epoch 200

@@ -1,0 +1,13 @@
+train: ./datasets/wildlife/images/train
+val: ./datasets/wildlife/images/val
+test: ./datasets/testimages
+
+nc: 4
+names: ['Bear', 'Cat', 'Deer', 'Fox']
+
+roboflow:
+  workspace: shivanijaiswal
+  project: wild_animal_detection-gqc2e
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/shivanijaiswal/wild_animal_detection-gqc2e/dataset/2

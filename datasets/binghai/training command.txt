@@ -1,0 +1,1 @@
+python train.py --weights weights/yolov7_training.pt --cfg cfg/training/yolov7-binghai.yaml --data data/coco-binghai.yaml --device 0 --batch-size 4 --epoch 340
